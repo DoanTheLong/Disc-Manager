@@ -1,0 +1,94 @@
+[{
+  "_id": "HD1",
+  "thoiGianBH": 3,
+  "maKH": "KH1",
+  "tienPhaiTra": 305000,
+  "tongThanhTien": 305000,
+  "tinhTrangThanhToan": true,
+  "tienDaThanhToan": 400000,
+  "tienThua": 95000,
+  "ngayHopDong": {
+    "$date": "2024-05-10T06:59:38.077Z"
+  },
+  "maNV": "NV1",
+  "dsCTHD": [
+    {
+      "maXe": "X1",
+      "thanhTien": 50000,
+      "donGia": 10000,
+      "soLuong": 5
+    },
+    {
+      "maXe": "X4",
+      "thanhTien": 105000,
+      "donGia": 15000,
+      "soLuong": 7
+    },
+    {
+      "maXe": "X3",
+      "thanhTien": 75000,
+      "donGia": 15000,
+      "soLuong": 5
+    }
+  ],
+  "dsCTTT": [
+    {
+      "tienTra": 200000,
+      "tenNguoiTra": "Truong Thi Hoa",
+      "lanTra": 1
+    }
+  ]
+},
+{
+  "_id": "HD2",
+  "thoiGianBH": 3,
+  "maKH": "KH3",
+  "tienPhaiTra": 216600,
+  "tongThanhTien": 228000,
+  "tinhTrangThanhToan": true,
+  "tienDaThanhToan": 300000,
+  "tienThua": 83400,
+  "ngayHopDong": {
+    "$date": "2024-05-10T07:04:33.594Z"
+  },
+  "maNV": "NV2",
+  "dsCTHD": [
+    {
+      "maXe": "X3",
+      "thanhTien": 45000,
+      "donGia": 15000,
+      "soLuong": 3
+    },
+    {
+      "maXe": "X7",
+      "thanhTien": 60000,
+      "donGia": 20000,
+      "soLuong": 3
+    },
+    {
+      "maXe": "X10",
+      "thanhTien": 36000,
+      "donGia": 12000,
+      "soLuong": 3
+    },
+    {
+      "maXe": "X14",
+      "thanhTien": 51000,
+      "donGia": 17000,
+      "soLuong": 3
+    },
+    {
+      "maXe": "X15",
+      "thanhTien": 36000,
+      "donGia": 12000,
+      "soLuong": 3
+    }
+  ],
+  "dsCTTT": [
+    {
+      "tienTra": 300000,
+      "tenNguoiTra": "Nguyen Thi Hoang",
+      "lanTra": 1
+    }
+  ]
+}]

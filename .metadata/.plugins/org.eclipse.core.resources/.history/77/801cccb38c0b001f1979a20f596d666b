@@ -1,0 +1,50 @@
+/**
+	 * @param Nguyễn Minh Quang 19487761
+	 **/
+
+package gui;
+
+import javax.swing.JPanel;
+import javax.swing.JLabel;
+import javax.swing.SwingConstants;
+import java.awt.Font;
+import java.awt.Color;
+import javax.swing.JTextArea;
+import javax.swing.JTextPane;
+
+public class PanelGioiThieu extends JPanel {
+
+	/**
+	 * Create the panel.
+	 */
+	public PanelGioiThieu() {
+		setBounds(1, 0, 1087, 706);
+		setLayout(null);
+		setVisible(true);
+
+		JLabel lblNewLabel = new JLabel("GI\u1EDAI THI\u1EC6U \u1EE8NG D\u1EE4NG");
+		lblNewLabel.setForeground(new Color(255, 99, 71));
+		lblNewLabel.setFont(new Font("Tahoma", Font.BOLD, 30));
+		lblNewLabel.setHorizontalAlignment(SwingConstants.CENTER);
+		lblNewLabel.setBounds(10, 11, 1067, 63);
+		add(lblNewLabel);
+		
+		JTextArea txtaGioiThieu = new JTextArea();
+		txtaGioiThieu.setFont(new Font("Times New Roman", Font.PLAIN, 20));
+		txtaGioiThieu.setText("\n"
+				+ " Nhóm  - Lập trình phân tán với công nghệ Java "
+				+ "\n 1. Nguyễn Võ Vươn Lập - 19484491 "
+				+ "\n 2. Hoàng Thị Ngọc Ánh - 19521271 "
+				+ "\n 3. Nguyễn Minh Quang - 19487761 "
+				+ "\n\n Chương trình quản lý cửa hàng bán xe máy."
+				+ "\n\n Bao gồm các chức năng Quản lý nhân viên, quản lý khách hàng, quản lý thông tin xe, quản lý hợp đồng và phiếu nhận xét."
+				+ "\n\n Hiện tại các chức năng còn hạn chế và sẽ được cập nhật liên tục trong tương lai."
+				+ "\n\n Được phát triển dựa trên: Ngôn ngữ lập trình Java,Phần mềm sử dụng Eclipse."
+				+ "\n\n Ngôn ngữ sử dụng chính trong chương trình: Tiếng Việt."
+				+ "\n\n Mọi thắc mắc và yêu cầu hỗ trợ xin hãy gọi điện cho nhà phát triển thông qua Số điện thoại: 036xxxxxxx");
+		txtaGioiThieu.setEditable(false);
+		txtaGioiThieu.setBounds(10, 71, 1068, 624);
+		add(txtaGioiThieu);
+
+	}
+}

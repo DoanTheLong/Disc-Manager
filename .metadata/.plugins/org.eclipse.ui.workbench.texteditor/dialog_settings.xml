@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="txtTienThua"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="txtTienThua"/>
+			<item value="-"/>
+			<item value="txtTien"/>
+			<item value="txtTongCong"/>
+			<item value="Tiền trả"/>
+			<item value="Hợp đồng"/>
+			<item value="hợp đồng"/>
+			<item value="btnThem"/>
+			<item value="Bậc thợ"/>
+			<item value="tableHD"/>
+			<item value="txtGiaBan"/>
+			<item value="dsCTHD"/>
+			<item value="dsCTTT"/>
+			<item value="updateTableCTTT"/>
+			<item value="Mã hợp"/>
+		</list>
+		<list key="replacehistory">
+			<item value="Hóa đơn"/>
+			<item value="hóa đơn"/>
+			<item value="lblMaXe"/>
+			<item value="txtMaXe"/>
+			<item value="txtLoaiDia"/>
+			<item value="lblTenDia"/>
+			<item value="txtTenDia"/>
+			<item value="txtMaDia"/>
+			<item value="lblMaDia"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="192"/>
+		<item key="DIALOG_Y_ORIGIN" value="179"/>
+		<item key="DIALOG_WIDTH" value="322"/>
+		<item key="DIALOG_HEIGHT" value="391"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>

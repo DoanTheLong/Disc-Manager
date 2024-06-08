@@ -1,0 +1,16 @@
+package facade;
+
+import java.rmi.Remote;
+import java.rmi.RemoteException;
+import java.util.List;
+
+import entity.Dia;
+
+public interface XeFacade extends Remote{
+	public boolean themXe(Dia xe) throws RemoteException;
+	public boolean xoaXe(String maXe) throws RemoteException;
+	public boolean capNhatXe(Dia xe) throws RemoteException;
+	public List<Dia> timXeTheoTextSearch(String keywords) throws RemoteException;
+	public Dia timXeTheoMa(String maXe) throws RemoteException;
+	public List<Dia> getDSXe() throws RemoteException;
+}

@@ -1,0 +1,26 @@
+[{
+  "_id": "NV1",
+  "taiKhoan": {
+    "loaiTaiKhoan": "Quản lý",
+    "matKhau": "1111"
+  },
+  "tenNV": "nguyen van nam",
+  "trinhDoHocVan": "dai hoc",
+  "diaChiNV": "234 hl2",
+  "phongBan": "kinh doanh",
+  "chucVu": "nhan vien",
+  "soDienThoaiNV": "0903124567"
+},
+{
+  "_id": "NV2",
+  "taiKhoan": {
+    "loaiTaiKhoan": "Nhân viên hành chánh",
+    "matKhau": "1111"
+  },
+  "tenNV": "doan the long",
+  "trinhDoHocVan": "tốt nghiệp đại học",
+  "diaChiNV": "123 hl2",
+  "phongBan": "quản lý",
+  "chucVu": "nhan vien",
+  "soDienThoaiNV": "0328033348"
+}]

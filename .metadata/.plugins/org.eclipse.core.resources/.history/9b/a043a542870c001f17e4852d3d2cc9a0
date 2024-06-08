@@ -1,0 +1,44 @@
+package facade;
+
+import java.rmi.RemoteException;
+import java.rmi.server.UnicastRemoteObject;
+import java.util.List;
+
+import dao.DiaDAO;
+import entity.Dia;
+
+public class XeImpl extends UnicastRemoteObject implements XeFacade{
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = -7778804376763956428L;
+	private DiaDAO xeDao;
+	
+	public XeImpl() throws RemoteException{
+		xeDao = new DiaDAO();
+	}
+
+	public boolean themXe(Dia xe) throws RemoteException {
+		return xeDao.themXe(xe);
+	}
+
+	public boolean xoaXe(String maXe) throws RemoteException {
+		return xeDao.xoaXe(maXe);
+	}
+
+	public boolean capNhatXe(Dia xe) throws RemoteException {
+		return xeDao.capNhatXe(xe);
+	}
+
+	public List<Dia> timXeTheoTextSearch(String keywords) throws RemoteException {
+		return xeDao.timXeTheoTextSearch(keywords);
+	}
+
+	public List<Dia> getDSXe() throws RemoteException {
+		return xeDao.getDSXe();
+	}
+
+	public Dia timXeTheoMa(String maXe) throws RemoteException {
+		return xeDao.timXeTheoMa(maXe);
+	}
+}

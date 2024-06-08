@@ -1,0 +1,54 @@
+[{
+  "_id": "KH1",
+  "tenKH": "Truong Thi Hoa",
+  "soDienThoaiKH": "0126475893",
+  "diaChiKH": "456 HL2"
+},
+{
+  "_id": "KH2",
+  "tenKH": "Hoa Khuyen Hoc",
+  "soDienThoaiKH": "09135874653",
+  "diaChiKH": "62 QL1A"
+},
+{
+  "_id": "KH3",
+  "tenKH": "Nguyen Thi Hoang",
+  "soDienThoaiKH": "0876243745",
+  "diaChiKH": "97 Tran van giau"
+},
+{
+  "_id": "KH4",
+  "tenKH": "Truong Thi Thu",
+  "soDienThoaiKH": "0926384928",
+  "diaChiKH": "324 Tran binh trong"
+},
+{
+  "_id": "KH5",
+  "tenKH": "Nguyen Thi Hong Hoa",
+  "soDienThoaiKH": "0932637493",
+  "diaChiKH": "342/23 Cmt8"
+},
+{
+  "_id": "KH6",
+  "tenKH": "Nguyen Duc Duy",
+  "soDienThoaiKH": "0126347773",
+  "diaChiKH": "324 Ly thuong kiet"
+},
+{
+  "_id": "KH7",
+  "tenKH": "Truong Thi Lan",
+  "soDienThoaiKH": "0936342746",
+  "diaChiKH": "56 Binh Long"
+},
+{
+  "_id": "KH8",
+  "tenKH": "Truong Hoang Long",
+  "soDienThoaiKH": "0903453823",
+  "diaChiKH": "64 Vo Thi Sau"
+},
+{
+  "_id": "KH9",
+  "tenKH": "Hoang Thi My Ngoc",
+  "soDienThoaiKH": "0932456789",
+  "diaChiKH": "67 Vo thi sau"
+}]
