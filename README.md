@@ -29,9 +29,11 @@
 - Programming language:
   - Java ([JDK 1.8](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html))
 - Database:
-  - [MongoDB](https://www.mongodb.com/lp/cloud/atlas/try4?utm_content=rlsavisitor&utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core_retarget-brand_gic-null_apac-all_ps-all_desktop_eng_lead&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=14412646476&adgroup=131761130812&cq_cmp=14412646476&gad_source=1&gclid=CjwKCAjwgpCzBhBhEiwAOSQWQRvSdnGYxGhhklulK7EYSNsddFDQkHIEYXO8F236K9PSbaY2ExUqoBoCyRIQAvD_BwE)
+  - MongoDB
 - API:
-  - [RMI](https://viblo.asia/p/gioi-thieu-ve-java-rmiremote-method-invocation-XogBG2xrRxnL)
+  - RMI
+- Architecture:
+  - Client-Server 
 ### IV. Software Demo Video Link
 - [Software Demo Video Link](https://github.com)
 ### V. Installation Guide
