@@ -1,28 +1,27 @@
-# CD-Manager
+# Disc-Manager
 ### I. Decription
-- 
+- This is software that supports disc sales management with 2 main users:
+- *`Administrative Staff` has permissions: Disc management, customer management, invoice management*
+- *`Manager` has full permissions*
 ### II. Functions
-- CD management:
-  - Add CD
-  - Delete CD
-  - Edit CD information
-  - Search for CD (By CD ID)
+- Disc management:
+  - Add Disc
+  - Delete Disc
+  - Edit Disc information
+  - Search for Disc (By ID)
 - Employee management:
   - Add employee
   - Delete employee
   - Edit employee information
-  - Search for employee by code (By employee ID)
+  - Search for employee (By ID, name or Phone)
 - Customer management:
   - Add customer
   - Delete customer
   - Edit customer information
-  - Search for customer by code (By customer ID)
+  - Search for customer by code (By customer ID, name)
 - Invoice management:
   - Create invoice
   - Search for invoice (By invoice ID)
-- Notes:
-  - *Role `Administrative Staff` has permissions: CD management, customer management, invoice management*
-  - *Role `Manager` has full permissions*
 ### III. Technologies Used
 - GUI:
   - Java Swing ([WindowBuilder](https://eclipse.dev/windowbuilder/))
@@ -43,5 +42,3 @@
 - Step 4: Configure `JRE` to version `1.8_202`.
 - Step 5: Open the `data file` and import it into your database.
 - Step 6: Run `ServerApp.java` first, and then run `ClientApp.java`.
-### Author
-Doan The Long
