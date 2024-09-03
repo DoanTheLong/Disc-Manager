@@ -33,12 +33,12 @@
   - RMI
 - Architecture:
   - Client-Server 
-### IV. Software Demo Video Link
-- [Software Demo Video Link](https://github.com)
-### V. Installation Guide
+### IV. Installation Guide
 - Step 1: Clone the code from GitHub.
 - Step 2: Create a database with collections similar to those in the `hibernate.cfg.xml` file.
 - Step 3: Open the `ServerApp.java` and `ClientApp.java` files, and modify the `RMI IP` to match the `IP of your machine`.
 - Step 4: Configure `JRE` to version `1.8_202`.
 - Step 5: Open the `data file` and import it into your database.
 - Step 6: Run `ServerApp.java` first, and then run `ClientApp.java`.
+### V. Some images of the software interface
+![markdown](https://images.viblo.asia/518eea86-f0bd-45c9-bf38-d5cb119e947d.png)
