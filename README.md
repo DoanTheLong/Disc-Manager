@@ -43,19 +43,25 @@
 - Step 4: Configure `JRE` to version `1.8_202`.
 - Step 5: Open the `data file` and import it into your database.
 - Step 6: Run `ServerApp.java` first, and then run `ClientApp.java`.
+- Notes: Account Manager: `NV1` `1111` Account Emloyee `NV2` `1111`
 ### V. Some images of the software interface
-- Main Interface  
-![Main Interface](Picture/Main.png)
-- Disc Manager Interface  
-![Disc Manager Interface](Picture/DiscManager.png)
-- Customer Manager Interface
-![Customer Manager Interface](Picture/CustomerManager.png)
-- Employee Manager Interface
-![Employee Manager Interface](Picture/EmployeeManager.png)
-- Invoice Manager Interface
-	- Create Invoice Interface  
-![Create Invoice Interface](Picture/InvoiceCreation.png)
-	- List Invoice Interface
-![List Invoice Interface](Picture/ListInvoice.png)
+- Manager Interface
+	- Main Interface  
+	![Main Interface](Picture/Main.png)
+	- Disc Manager Interface  
+	![Disc Manager Interface](Picture/DiscManager.png)
+	- Customer Manager Interface
+	![Customer Manager Interface](Picture/CustomerManager.png)
+	- Employee Manager Interface
+	![Employee Manager Interface](Picture/EmployeeManager.png)
+	- Invoice Manager Interface
+		- Create Invoice Interface  
+	![Create Invoice Interface](Picture/InvoiceCreation.png)
+		- List Invoice Interface
+	![List Invoice Interface](Picture/ListInvoice.png)
+- Employee Interface
+	- Main Interface  
+	![Main Interface](Picture/Main_1.png)
+	 	
 
 
