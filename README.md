@@ -41,4 +41,16 @@
 - Step 5: Open the `data file` and import it into your database.
 - Step 6: Run `ServerApp.java` first, and then run `ClientApp.java`.
 ### V. Some images of the software interface
-![markdown](https://images.viblo.asia/518eea86-f0bd-45c9-bf38-d5cb119e947d.png)
+- Main Interface
+![Alt text](C:\Users\learn\OneDrive\Desktop\Projects Custom\Disc-Manager\Picture\Main.png "Main Interface")
+- Disc Manager Interface
+![Alt text](C:\Users\learn\OneDrive\Desktop\Projects Custom\Disc-Manager\Picture\DiscManager.png "Disc Manager Interface")
+- Customer Manager Interface
+![Alt text](C:\Users\learn\OneDrive\Desktop\Projects Custom\Disc-Manager\Picture\CustomerManager.png "Customer Manager Interface")
+- Employee Manager Interface
+![Alt text](C:\Users\learn\OneDrive\Desktop\Projects Custom\Disc-Manager\Picture\EmployeeManager.png "Employee Manager Interface")
+- Invoice Manager Interface
+	- Invoice Creation Interface
+![Alt text](C:\Users\learn\OneDrive\Desktop\Projects Custom\Disc-Manager\Picture\InvoiceCreation.png "Invoice Creation Interface")
+
+
