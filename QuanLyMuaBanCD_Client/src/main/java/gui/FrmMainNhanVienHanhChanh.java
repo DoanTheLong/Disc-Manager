@@ -152,7 +152,7 @@ public class FrmMainNhanVienHanhChanh extends JFrame {
 		pnlMenu.add(pnlXeMay);
 		pnlXeMay.setLayout(null);
 
-		JLabel lblXeMay = new JLabel("XE MÁY");
+		JLabel lblXeMay = new JLabel("ĐĨA");
 		lblXeMay.setForeground(new Color(255, 255, 255));
 		lblXeMay.setFont(new Font("Tahoma", Font.BOLD, 18));
 		lblXeMay.setBounds(74, 11, 132, 25);
